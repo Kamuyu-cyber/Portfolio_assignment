@@ -10,8 +10,8 @@ const technologies = [
     skills: ["Node.js", "Express", "Python", "Django", "PostgreSQL", "MongoDB"],
   },
   {
-    category: "DevOps",
-    skills: ["Docker", "AWS", "CI/CD", "Git", "Linux", "Nginx"],
+    category: "Data Analytics",
+    skills: ["Excel", "SQL", "Power Bi", "Pandas", "Linux", "Tableau"],
   },
   {
     category: "Tools",

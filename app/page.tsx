@@ -38,7 +38,7 @@ export default function Page() {
         </div>
       </header>
 
-      <main className="container px-4 md:px-6 bg-blue-100">
+      <main className="container px-4 md:px-6">
         <section id="about" className="py-12 md:py-24 bg-purple-950">
           <div className="container">
             <div className="flex flex-col md:flex-row gap-8 items-center">
